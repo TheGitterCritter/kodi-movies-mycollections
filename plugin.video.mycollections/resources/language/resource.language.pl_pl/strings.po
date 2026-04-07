@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl_pl\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "Moje Kolekcje"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "Zarządzaj własnymi kolekcjami filmów."
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "Ręczny menedżer kolekcji filmów wykorzystujący pliki JSON."
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "Dodaj do mojej kolekcji"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# Szukaj filmów w bibliotece"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ Dodaj nową kolekcję"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* Importuj kolekcję"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "Zmień nazwę kolekcji"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "Wybierz własną okładkę"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "Przywróć domyślną okładkę"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "Eksportuj kolekcję"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "Usuń kolekcję"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "Odśwież kolekcję filmów"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "Zmień pozycję"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "Usuń z kolekcji"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "Szukaj filmu ponownie"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "Sukces"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "Błąd"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "Brakujące"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "Nadpisać?"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "Potwierdź"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "Już w kolekcji"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "Pozycja"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "Najpierw utwórz kolekcję."
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "Nie znaleziono nowych filmów."
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "Wyeksportowano"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "BRAK W BIBLIOTECE"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "Tego filmu brakuje w Twojej lokalnej bazie danych."

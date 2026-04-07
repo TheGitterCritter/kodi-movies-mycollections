@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_es\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "Mis Colecciones"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "Gestionar colecciones de películas personalizadas."
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "Gestor manual de colecciones de películas mediante almacenamiento JSON."
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "Añadir a mi colección"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# Buscar películas en la biblioteca"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ Añadir nueva colección"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* Importar colección"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "Renombrar colección"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "Elegir póster personalizado"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "Volver al póster por defecto"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "Exportar colección"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "Eliminar colección"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "Escanear colección de películas"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "Mover posición"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "Eliminar de la colección"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "Buscar película de nuevo"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "Éxito"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "Error"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "Falta"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "¿Sobrescribir?"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "Confirmar"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "Ya está en la colección"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "Posición"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "Crea una colección primero."
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "No se encontraron películas nuevas."
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "Exportado"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "NO ESTÁ EN LA BIBLIOTECA"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "Esta película no está en tu base de datos local."

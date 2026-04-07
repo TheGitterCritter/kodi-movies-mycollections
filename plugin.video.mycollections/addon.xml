@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.mycollections" name="My Collections" version="1.0.0" provider-name="TheGitterCritter">
+    <requires>
+        <import addon="xbmc.python" version="1.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+
+    <extension point="kodi.context.item">
+        <menu id="kodi.core.main">
+            <item library="context_entry.py">
+                <label>$ADDON[plugin.video.mycollections 30003]</label>
+                <visible>[String.Contains(Container.FolderPath,mode=search_results) | !String.Contains(Container.FolderPath,plugin.video.mycollections)] + [String.IsEqual(ListItem.dbtype,movie) | !String.IsEmpty(ListItem.DBID)]</visible>
+            </item>
+        </menu>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <displayname lang="da">Mine samlinger</displayname>
+        <displayname lang="de">Meine Sammlungen</displayname>
+        <displayname lang="el">Οι Συλλογές μου</displayname>
+        <displayname lang="en">My Collections</displayname>
+        <displayname lang="es">Mis Colecciones</displayname>
+        <displayname lang="fi">Omat kokoelmat</displayname>
+        <displayname lang="fr">Mes Collections</displayname>
+        <displayname lang="hi">मेरे संग्रह</displayname>
+        <displayname lang="it">Le mie collezioni</displayname>
+        <displayname lang="ja">マイコレクション</displayname>
+        <displayname lang="ko">내 컬렉션</displayname>
+        <displayname lang="nb">Mine samlinger</displayname>
+        <displayname lang="nl">Mijn collecties</displayname>
+        <displayname lang="pl">Moje kolekcje</displayname>
+        <displayname lang="pt">Minhas Coleções</displayname>
+        <displayname lang="ru">Мои коллекции</displayname>
+        <displayname lang="sv">Mina samlingar</displayname>
+        <displayname lang="tr">Koleksiyonlarım</displayname>
+        <displayname lang="zh">我的收藏</displayname>
+
+        <summary lang="da">Administrer brugerdefinerede filmsamlinger.</summary>
+        <summary lang="de">Eigene Filmsammlungen verwalten.</summary>
+        <summary lang="el">Διαχείριση προσαρμοσμένων συλλογών ταινιών.</summary>
+        <summary lang="en">Manage custom movie collections.</summary>
+        <summary lang="es">Gestionar colecciones de películas personalizadas.</summary>
+        <summary lang="fi">Hallitse omia elokuvakokoelmia.</summary>
+        <summary lang="fr">Gérer des collections de films personnalisées.</summary>
+        <summary lang="hi">कस्टम मूवी संग्रह प्रबंधित करें।</summary>
+        <summary lang="it">Gestisci collezioni di film personalizzate.</summary>
+        <summary lang="ja">カスタム映画コレクションを管理します。</summary>
+        <summary lang="ko">사용자 지정 영화 컬렉션을 관리합니다.</summary>
+        <summary lang="nb">Administrer egne filmsamlinger.</summary>
+        <summary lang="nl">Beheer aangepaste filmcollecties.</summary>
+        <summary lang="pl">Zarządzaj własnymi kolekcjami filmów.</summary>
+        <summary lang="pt">Gerencie coleções de filmes personalizadas.</summary>
+        <summary lang="ru">Управление пользовательскими коллекциями фильмов.</summary>
+        <summary lang="sv">Hantera anpassade filmsamlingar.</summary>
+        <summary lang="tr">Özel film koleksiyonlarını yönetin.</summary>
+        <summary lang="zh">管理自定义电影收藏。</summary>
+
+        <description lang="da">Manuel filmsamlingsadministrator ved hjælp af JSON-lagring.</description>
+        <description lang="de">Manueller Filmsammlungs-Manager mit JSON-Speicherung.</description>
+        <description lang="el">Χειροκίνητος διαχειριστής συλλογών ταινιών με χρήση αποθήκευσης JSON.</description>
+        <description lang="en">Manual movie collection manager using JSON storage.</description>
+        <description lang="es">Gestor manual de colecciones de películas mediante almacenamiento JSON.</description>
+        <description lang="fi">Manuaalinen elokuvakokoelmien hallinta JSON-tallennuksella.</description>
+        <description lang="fr">Gestionnaire de collection de films manuel utilisant le stockage JSON.</description>
+        <description lang="hi">JSON स्टोरेज का उपयोग करके मैन्युअल मूवी संग्रह प्रबंधक।</description>
+        <description lang="it">Gestore manuale delle collezioni di film che utilizza l'archiviazione JSON.</description>
+        <description lang="ja">JSONストレージを使用した手動の映画コレクションマネージャー。</description>
+        <description lang="ko">JSON 스토리지를 사용하는 수동 영화 컬렉션 관리자.</description>
+        <description lang="nb">Manuell filmsamlingsbehandler som bruker JSON-lagring.</description>
+        <description lang="nl">Handmatige filmcollectiebeheerder met JSON-opslag.</description>
+        <description lang="pl">Ręczny menedżer kolekcji filmów korzystający z zapisu JSON.</description>
+        <description lang="pt">Gerenciador manual de coleção de filmes usando armazenamento JSON.</description>
+        <description lang="ru">Ручной менеджер коллекции фильмов с использованием хранилища JSON.</description>
+        <description lang="sv">Manuell filmsamlingshanterare med JSON-lagring.</description>
+        <description lang="tr">JSON depolama kullanan manuel film koleksiyonu yöneticisi.</description>
+        <description lang="zh">使用 JSON 存储的手动电影收藏管理器。</description>
+
+        <platform>all</platform>
+        <language>da de el en es fi fr hi it ja ko nb nl pl pt ru sv tr zh</language>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>

@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_cn\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "我的收藏"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "管理自定义电影收藏。"
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "使用 JSON 存储的手动电影收藏管理器。"
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "添加到我的收藏"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# 在媒体库中搜索电影"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ 添加新收藏"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* 导入收藏"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "重命名收藏"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "选择自定义海报"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "恢复默认海报"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "导出收藏"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "删除收藏"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "重新扫描电影收藏"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "移动位置"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "从收藏中移除"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "重新扫描电影"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "成功"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "失败"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "缺失"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "是否覆盖？"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "确认"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "已在收藏中"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "位置"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "请先创建一个收藏。"
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "未找到新电影。"
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "已导出"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "不在媒体库中"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "您的本地数据库中缺少此电影。"

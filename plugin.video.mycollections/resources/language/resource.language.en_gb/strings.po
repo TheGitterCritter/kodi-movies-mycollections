@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_gb\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "My Collections"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "Manage custom movie collections."
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "Manual movie collection manager using JSON storage."
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "Add to My Collection"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# Search Movies in Library"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ Add New Collection"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* Import Collection"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "Rename Collection"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "Choose Custom Poster"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "Revert to Default Poster"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "Export Collection"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "Delete Collection"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "Rescan Movie Collection"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "Move Position"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "Remove from Collection"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "Rescan for Movie"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "Success"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "Failed"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "Missing"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "Overwrite?"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "Confirm"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "Already in collection"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "Position"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "Create a collection first."
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "No new movies found."
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "Exported"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "NOT IN LIBRARY"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "This movie is missing from your local database."
