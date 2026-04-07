@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi_fi\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "Omat kokoelmat"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "Hallitse omia elokuvakokoelmia."
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "Manuaalinen elokuvakokoelmien hallinta JSON-tallennuksella."
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "Lisää omaan kokoelmaan"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# Etsi elokuvia kirjastosta"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ Lisää uusi kokoelma"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* Tuo kokoelma"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "Nimeä kokoelma uudelleen"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "Valitse oma juliste"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "Palauta oletusjuliste"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "Vie kokoelma"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "Poista kokoelma"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "Skannaa kokoelma uudelleen"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "Siirrä sijaintia"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "Poista kokoelmasta"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "Etsi elokuva uudelleen"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "Onnistui"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "Epäonnistui"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "Puuttuu"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "Korvaa?"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "Vahvista"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "On jo kokoelmassa"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "Sijainti"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "Luo ensin kokoelma."
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "Uusia elokuvia ei löytynyt."
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "Viety"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "EI KIRJASTOSSA"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "Tämä elokuva puuttuu paikallisesta tietokannastasi."

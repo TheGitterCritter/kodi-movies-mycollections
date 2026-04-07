@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_nl\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "Mijn Collecties"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "Beheer aangepaste filmcollecties."
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "Handmatige filmcollectiebeheerder met JSON-opslag."
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "Toevoegen aan Mijn Collectie"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# Zoek films in bibliotheek"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ Nieuwe collectie toevoegen"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* Collectie importeren"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "Collectie hernoemen"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "Kies aangepaste poster"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "Terug naar standaard poster"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "Collectie exporteren"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "Collectie verwijderen"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "Filmcollectie herscannen"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "Positie verplaatsen"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "Verwijderen uit collectie"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "Zoeken naar film"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "Succes"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "Mislukt"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "Ontbreekt"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "Overschrijven?"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "Bevestigen"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "Reeds in collectie"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "Positie"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "Maak eerst een collectie aan."
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "Geen nieuwe films gevonden."
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "Geëxporteerd"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "NIET IN BIBLIOTHEEK"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "Deze film ontbreekt in uw lokale database."

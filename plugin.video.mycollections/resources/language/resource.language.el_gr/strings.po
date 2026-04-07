@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_gr\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "Οι Συλλογές μου"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "Διαχείριση προσαρμοσμένων συλλογών ταινιών."
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "Χειροκίνητος διαχειριστής συλλογών ταινιών με χρήση αποθήκευσης JSON."
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "Προσθήκη στη Συλλογή μου"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# Αναζήτηση ταινιών στη Βιβλιοθήκη"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ Προσθήκη νέας συλλογής"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* Εισαγωγή συλλογής"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "Μετονομασία συλλογής"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "Επιλογή προσαρμοσμένης αφίσας"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "Επαναφορά προεπιλεγμένης αφίσας"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "Εξαγωγή συλλογής"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "Διαγραφή συλλογής"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "Επανασάρωση συλλογής ταινιών"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "Μετακίνηση θέσης"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "Αφαίρεση από τη συλλογή"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "Επανασάρωση για ταινία"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "Επιτυχία"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "Αποτυχία"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "Λείπει"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "Αντικατάσταση;"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "Υπάρχει ήδη στη συλλογή"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "Θέση"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "Δημιουργήστε πρώτα μια συλλογή."
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "Δεν βρέθηκαν νέες ταινίες."
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "Εξήχθη"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "ΕΚΤΟΣ ΒΙΒΛΙΟΘΗΚΗΣ"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "Αυτή η ταινία λείπει από την τοπική βάση δεδομένων σας."

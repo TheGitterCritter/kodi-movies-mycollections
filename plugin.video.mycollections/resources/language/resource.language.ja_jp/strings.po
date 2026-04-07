@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.mycollections\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja_jp\n"
+
+# Addon Metadata
+msgctxt "#30000"
+msgid "My Collections"
+msgstr "マイコレクション"
+
+msgctxt "#30001"
+msgid "Manage custom movie collections."
+msgstr "カスタム映画コレクションを管理します。"
+
+msgctxt "#30002"
+msgid "Manual movie collection manager using JSON storage."
+msgstr "JSONストレージを使用した手動の映画コレクションマネージャー。"
+
+# Context Menu & Buttons
+msgctxt "#30003"
+msgid "Add to My Collection"
+msgstr "マイコレクションに追加"
+
+msgctxt "#30004"
+msgid "Search Movies in Library"
+msgstr "# ライブラリ内の映画を検索"
+
+msgctxt "#30005"
+msgid "Add New Collection"
+msgstr "+ 新しいコレクションを追加"
+
+msgctxt "#30006"
+msgid "Import Collection"
+msgstr "* コレクションをインポート"
+
+# Collection Context Menu
+msgctxt "#30007"
+msgid "Rename Collection"
+msgstr "コレクション名を変更"
+
+msgctxt "#30008"
+msgid "Choose Custom Poster"
+msgstr "カスタムポスターを選択"
+
+msgctxt "#30009"
+msgid "Revert to Default Poster"
+msgstr "デフォルトのポスターに戻す"
+
+msgctxt "#30010"
+msgid "Export Collection"
+msgstr "コレクションをエクスポート"
+
+msgctxt "#30011"
+msgid "Delete Collection"
+msgstr "コレクションを削除"
+
+msgctxt "#30012"
+msgid "Rescan Movie Collection"
+msgstr "映画コレクションを再スキャン"
+
+# Item Context Menu
+msgctxt "#30013"
+msgid "Move Position"
+msgstr "位置を移動"
+
+msgctxt "#30014"
+msgid "Remove from Collection"
+msgstr "コレクションから削除"
+
+msgctxt "#30015"
+msgid "Rescan for Movie"
+msgstr "映画を再検索"
+
+# Dialogs & Notifications
+msgctxt "#30016"
+msgid "Success"
+msgstr "成功"
+
+msgctxt "#30017"
+msgid "Failed"
+msgstr "失敗"
+
+msgctxt "#30018"
+msgid "Missing"
+msgstr "不明"
+
+msgctxt "#30019"
+msgid "Overwrite?"
+msgstr "上書きしますか？"
+
+msgctxt "#30020"
+msgid "Confirm"
+msgstr "確認"
+
+msgctxt "#30021"
+msgid "Already in collection"
+msgstr "すでにコレクションに存在します"
+
+msgctxt "#30022"
+msgid "Position"
+msgstr "位置"
+
+msgctxt "#30023"
+msgid "Create a collection first."
+msgstr "最初にコレクションを作成してください。"
+
+msgctxt "#30024"
+msgid "No new movies found."
+msgstr "新しい映画は見つかりませんでした。"
+
+msgctxt "#30025"
+msgid "Exported"
+msgstr "エクスポート完了"
+
+msgctxt "#30026"
+msgid "NOT IN LIBRARY"
+msgstr "ライブラリにありません"
+
+msgctxt "#30027"
+msgid "This movie is missing from your local database."
+msgstr "この映画はローカルデータベースに見つかりません。"
